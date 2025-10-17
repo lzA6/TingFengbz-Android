@@ -50,7 +50,7 @@
 我们深知"talk is cheap, show me the code"，但在这里，我们想说"setup should be easy, just give me the app"！
 
 1. **点击下方链接**，下载最新发布的 `app-release.apk` 文件
-   > 👉 **[下载最新版本](https://github.com/lzA6/TFCZ-Android/releases/latest)** 👈
+   > 👉 **[下载衍生稳定版本（旧）](https://github.com/lzA6/TingFengbz-Android/releases/download/%E8%A1%8D%E7%94%9F%E7%89%88/20.5.apk)** 👈
 
 2. 在你的安卓设备上找到下载的 APK 文件，点击安装
 3. 系统可能会提示"为了安全，禁止安装来自未知来源的应用"。请在弹出的设置中，**允许**来自该来源的应用安装
