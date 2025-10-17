@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#80FFFFFF"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+<TextView
+android:id="@+id/fps_text"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="当前帧数: 0 FPS"
+android:textColor="#000000"
+android:textSize="16sp"
+    tools:ignore="HardcodedText" />
+
+<TextView
+android:id="@+id/boost_text"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="已补帧: 0%"
+android:textColor="#000000"
+android:textSize="16sp"
+    tools:ignore="HardcodedText" />
+    </LinearLayout>
